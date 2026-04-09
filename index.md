@@ -13,10 +13,10 @@ API docs · Developer guides · Tutorials · Technical essays
 
 ### Featured
 
-**[The hidden cost of unclear documentation: a developer's time](#)**
-*Long read · March 2025 · 12 min*
+**[The hidden cost of unclear documentation: a developer's time](https://medium.com/@trinachanda24/the-hidden-cost-of-unclear-documentation-a-developers-time-1c85daeee208)(#)**
+*Short read · April 2025 · 2 min*
 
-Every ambiguous sentence in your docs costs real engineering hours. Here's how to audit your documentation the way you'd audit your code — ruthlessly, with metrics.
+Fragmented or outdated documentation actively taxes your most valuable resource: time.
 
 ---
 
