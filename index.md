@@ -1,5 +1,5 @@
 # Trina Chanda
-### Tech Writer
+### Technical Writer
 
 *Making the complex, human.*
 
@@ -23,7 +23,7 @@ Fragmented or outdated documentation actively taxes your most valuable resource:
 **[Gemma 4 Quickstart: A Beginner’s Guide to Running Google’s Open Model](https://medium.com/@trinaachan/gemma-4-quickstart-a-beginners-guide-to-running-google-s-open-model-dcb98b937b7e)**
 *QSG · April 2026  · 3 min*
 
-A no-fluff guide to setting up your first webhook listener, handling retries, and not panicking when Stripe sends you duplicate events.
+Learn how to run Google’s Gemma 4 locally using Python and Hugging Face in this beginner-friendly quickstart guide.
 
 ---
 
