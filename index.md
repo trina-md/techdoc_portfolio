@@ -57,9 +57,9 @@ How we cut time-to-first-API-call from 47 minutes to 9 by removing information, 
 
 ## About
 
-A writer who learned to code, not the other way around.
+Tech Writer with a focus on Developer Experience
 
-I started as a journalist covering the Indian startup scene, then fell in love with the strange, specific challenge of explaining software to the people who build it. Now I write docs, guides, and developer content for tech companies globally.
+I started as a QA tester in amazon, then fell in love with the strange, specific challenge of explaining software to the people who build it. Now I write docs, guides, and developer content for tech companies globally.
 
 Good technical writing is an act of empathy — standing between the person who built the thing and the person who needs to use it, and making sure neither side feels alone.
 
