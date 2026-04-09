@@ -92,7 +92,7 @@ Good technical writing is an act of empathy — standing between the person who 
 - Email — [trinachanda24@gmail.com](mailto:trinachanda24@gmail.com)
 - LinkedIn — [linkedin.com/in/trinachanda](https://www.linkedin.com/in/trinachanda/)
 - GitHub — [github.com/yourusername](https://github.com/yourusername)
-- Hashnode — [hashnode.com/@yourhandle](https://hashnode.com/@yourhandle)
+- Hashnode — [medium.com/@trinachanda24](https://medium.com/@trinachanda24)
 
 ---
 
