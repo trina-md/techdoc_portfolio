@@ -1,4 +1,4 @@
-# Your Name
+# Trina Chanda
 ### Tech Writer
 
 *Making the complex, human.*
@@ -89,8 +89,8 @@ Good technical writing is an act of empathy — standing between the person who 
 
 ## Contact
 
-- Email — [hello@yoursite.com](mailto:hello@yoursite.com)
-- LinkedIn — [linkedin.com/in/yourhandle](https://linkedin.com/in/yourhandle)
+- Email — [hello@yoursite.com](mailto:trinachanda24@gmail.com)
+- LinkedIn — [linkedin.com/in/trinachanda](https://www.linkedin.com/in/trinachanda/)
 - GitHub — [github.com/yourusername](https://github.com/yourusername)
 - Hashnode — [hashnode.com/@yourhandle](https://hashnode.com/@yourhandle)
 
