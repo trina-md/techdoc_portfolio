@@ -14,6 +14,8 @@ API docs · Developer guides · Tutorials · Technical essays
 ### Featured
 
 **[The hidden cost of unclear documentation: a developer's time](https://medium.com/@trinachanda24/the-hidden-cost-of-unclear-documentation-a-developers-time-1c85daeee208)**
+
+
 *Short read · April 2026 · 2 min*
 
 Fragmented or outdated documentation actively taxes your most valuable resource: time.
