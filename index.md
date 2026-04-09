@@ -5,7 +5,7 @@
 
 API docs · Developer guides · Tutorials · Technical essays
 
-[Read my work](#writing) · [About me](#about) · [hello@yoursite.com](mailto:hello@yoursite.com)
+[Read my work](#writing) · [About me](#about) 
 
 ---
 
