@@ -64,11 +64,11 @@ I started as a QA tester in amazon, then fell in love with the strange, specific
 Good technical writing is an act of empathy — standing between the person who built the thing and the person who needs to use it, and making sure neither side feels alone.
 
 **What I write**
-- API & SDK documentation
 - Developer onboarding guides
 - Tutorials & how-to articles
 - Release notes & changelogs
 - Technical essays & long reads
+- HL Architecture diagram
 
 **Tools & skills**
 - Markdown, MDX, reStructuredText
@@ -81,7 +81,7 @@ Good technical writing is an act of empathy — standing between the person who 
 
 | | |
 |---|---|
-| Years writing about tech | 6+ |
+| Years writing about tech | 2+ |
 | Developer products documented | 12 |
 | Articles & guides published | 48 |
 
