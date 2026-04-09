@@ -1,5 +1,4 @@
 title: "Trina Chanda|Tech Writer"
 description: "Developer guides & technical essays."
-remote_theme: Monochrome
-plugins:
-- Monochrome
+theme: Monochrome
+
