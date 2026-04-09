@@ -1,6 +1,4 @@
 title: "Trina Chanda|Tech Writer"
 description: "Developer guides & technical essays."
-theme: Minima
-plugins:
-  - jekyll-feed
+theme: Primer
 
