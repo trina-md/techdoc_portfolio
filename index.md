@@ -14,14 +14,14 @@ API docs · Developer guides · Tutorials · Technical essays
 ### Featured
 
 **[The hidden cost of unclear documentation: a developer's time](https://medium.com/@trinachanda24/the-hidden-cost-of-unclear-documentation-a-developers-time-1c85daeee208)**
-*Short read · April 2025 · 2 min*
+*Short read · April 2026 · 2 min*
 
 Fragmented or outdated documentation actively taxes your most valuable resource: time.
 
 ---
 
-**[Zero-to-webhook in 15 minutes](#)**
-*Tutorial · Jan 2025 · 8 min*
+**[Gemma 4 Quickstart: A Beginner’s Guide to Running Google’s Open Model](https://medium.com/@trinaachan/gemma-4-quickstart-a-beginners-guide-to-running-google-s-open-model-dcb98b937b7e)**
+*QSG · April 2026  · 3 min*
 
 A no-fluff guide to setting up your first webhook listener, handling retries, and not panicking when Stripe sends you duplicate events.
 
@@ -83,7 +83,7 @@ Good technical writing is an act of empathy — standing between the person who 
 |---|---|
 | Years writing about tech | 2+ |
 | Developer products documented | 12 |
-| Articles & guides published | 48 |
+| Articles & guides published | 10 |
 
 ---
 
@@ -91,9 +91,9 @@ Good technical writing is an act of empathy — standing between the person who 
 
 - Email — [trinachanda24@gmail.com](mailto:trinachanda24@gmail.com)
 - LinkedIn — [linkedin.com/in/trinachanda](https://www.linkedin.com/in/trinachanda/)
-- GitHub — [github.com/yourusername](https://github.com/yourusername)
-- Hashnode — [medium.com/@trinachanda24](https://medium.com/@trinachanda24)
+- GitHub — [github.com/trina](https://github.com/yourusername)
+- Medium — [medium.com/@trinaachan](https://medium.com/@trinaachan)
 
 ---
 
-*Mumbai, India · Open to remote work globally*
+*Mumbai, India · Open to work*
